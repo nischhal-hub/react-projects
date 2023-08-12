@@ -165,6 +165,9 @@ main {
   line-height: 1.2;
   font-weight: 500;
 }
+.container h2{
+  text-align :center;
+}
 @media screen and (min-width: 992px) {
   .container {
     display: grid;
