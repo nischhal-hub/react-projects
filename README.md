@@ -23,8 +23,9 @@ You can check out the completed projects from these links do check out.👉
 * [Menu](#)
 * [Tabs](#)
 * [Slider](#)
-* [Lorem Ipsum generator(it works!)](https://voluble-beignet-f547f0.netlify.app/)
-* [Color generator](https://tiny-salmiakki-2fcad5.netlify.app/)
+* [Lorem Ipsum generator(it works!)](loremugen.netlify.app)
+* [Color generator](shadegenerator.netlify.app)
+* [Grocery bud](https://grocerybuddy123.netlify.app)
 
 
 
