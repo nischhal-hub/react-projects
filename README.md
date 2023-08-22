@@ -12,7 +12,7 @@ From these projects i will be learning all these topics:
 * useReducer
 * React Router and useCallback
 
-Best of luck to me.😊
+Best of luck to me.😊🔊
 
 You can check out the completed projects from these links do check out.👉
 (Haven't updated the link till Lorem Ipsum generator.)
@@ -26,6 +26,10 @@ You can check out the completed projects from these links do check out.👉
 * [Lorem Ipsum generator(it works!)](loremugen.netlify.app)
 * [Color generator](shadegenerator.netlify.app)
 * [Grocery bud](https://grocerybuddy123.netlify.app)
+* [Navbar](responavvy.netlify.app)
+* [Sidebar-modal](melodious-profiterole-1fbb5d.netlify.app)
+
+
 
 
 
