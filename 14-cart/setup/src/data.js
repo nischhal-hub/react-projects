@@ -1,23 +1,23 @@
 export default [
   {
     id: 1,
-    title: 'Samsung Galaxy S7',
-    price: 599.99,
-    img: 'https://dl.airtable.com/.attachments/91ee456448cef47deec553a2ea3fa8ad/b08bec68/phone-2_ohtt5s.png',
+    title: 'Samsung Galaxy S22 Ultra',
+    price: 1199.99,
+    img: 'https://th.bing.com/th/id/R.14fe16085bf1b0532666aaa82605ec42?rik=gS6wMHAM009dGg&pid=ImgRaw&r=0',
     amount: 1,
   },
   {
     id: 2,
-    title: 'google pixel ',
-    price: 499.99,
-    img: 'https://dl.airtable.com/.attachments/91c88ae8c1580e2b762ecb3f73ed1eed/a633139a/phone-1_gvesln.png',
+    title: 'google pixel 7',
+    price: 799.99,
+    img: 'https://p.turbosquid.com/ts-thumb/7y/e1cxCT/hJ/white00/jpg/1653490925/600x600/fit_q87/ad82543b88eee3a3a528282317e1c7c2c9923f9a/white00.jpg',
     amount: 1,
   },
   {
     id: 3,
-    title: 'Xiaomi Redmi Note 2',
+    title: 'Xiaomi Redmi Note 12 pro',
     price: 699.99,
-    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    img: 'https://th.bing.com/th/id/OIP.3frfNdbldU_3z7FMiAVLhgHaHa?pid=ImgDet&rs=1',
     amount: 1,
   },
 ];
