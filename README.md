@@ -28,6 +28,7 @@ You can check out the completed projects from these links do check out.👉
 * [Grocery bud](https://grocerybuddy123.netlify.app)
 * [Navbar](responavvy.netlify.app)
 * [Sidebar-modal](melodious-profiterole-1fbb5d.netlify.app)
+* [Stripe-submenu](https://elegant-kleicha-42d263.netlify.app/)
 
 
 
