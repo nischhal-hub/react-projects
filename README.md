@@ -23,14 +23,15 @@ You can check out the completed projects from these links do check out.👉
 * [Menu](#)
 * [Tabs](#)
 * [Slider](#)
-* [Lorem Ipsum generator(it works!)](loremugen.netlify.app)
-* [Color generator](shadegenerator.netlify.app)
+* The links from below👇 works, above links doesn't work as i am too lazy to update the links🙏
+* [Lorem Ipsum generator](https://loremugen.netlify.app)
+* [Color generator](https://shadegenerator.netlify.app)
 * [Grocery bud](https://grocerybuddy123.netlify.app)
-* [Navbar](responavvy.netlify.app)
-* [Sidebar-modal](melodious-profiterole-1fbb5d.netlify.app)
+* [Navbar](https://responavvy.netlify.app)
+* [Sidebar-modal](https://melodious-profiterole-1fbb5d.netlify.app)
 * [Stripe-submenu](https://elegant-kleicha-42d263.netlify.app/)
-* [Cart](radiant-liger-3993de.netlify.app)
-* [Cocktail](stellar-kitsune-8a80c5.netlify.app)
+* [Cart](https://radiant-liger-3993de.netlify.app)
+* [Cocktail-info](https://stellar-kitsune-8a80c5.netlify.app)
 
 
 
