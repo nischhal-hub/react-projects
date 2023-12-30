@@ -30,6 +30,8 @@ You can check out the completed projects from these links do check out.👉
 * [Sidebar-modal](melodious-profiterole-1fbb5d.netlify.app)
 * [Stripe-submenu](https://elegant-kleicha-42d263.netlify.app/)
 * [Cart](radiant-liger-3993de.netlify.app)
+* [Cocktail](stellar-kitsune-8a80c5.netlify.app)
+
 
 
 
